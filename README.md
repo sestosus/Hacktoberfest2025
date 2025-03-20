@@ -1,4 +1,4 @@
-# Hacktoberfest 2024
+# Hacktoberfest 2025
 Welcome to Hacktoberfest 2024! This repository is open to contributions for Hacktoberfest. You can submit your pull requests to get involved in the open-source community!
 
 ## How to contribute:
